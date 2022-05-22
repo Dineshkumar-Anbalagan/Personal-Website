@@ -1,0 +1,111 @@
+
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+/*********************************** CLASSES ***********************************/
+
+.intro-section{
+  background-color: #000000;
+  height: 100%;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.about-section{
+  background-color: #150050;
+  height: 100%;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.experience-section{
+  background-color: #3F0071;
+  height: 100%;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.skills-section{
+  background-color: #EEF3D2;
+  height: 100%;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.contacts-section{
+  background-color: #52057B;
+  height: 100%;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.about-p{
+  padding-right: 15%;
+  line-height: 200%;
+}
+
+.skills-table{
+  color: #3F0071;
+  width: 100%;
+  text-align: left;
+}
+
+.skills-row{
+  color: #3F0071;
+}
+
+/*******************************************************************************/
+
+table{
+  color: white;
+  width: 100%;
+  padding-left: 200px;
+}
+
+h1{
+  margin-top: 0;
+  padding-top: 270px;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 50px;
+  color: #C996CC;
+}
+
+h2{
+  color: white;
+}
+
+h3{
+  color: white;
+}
+
+p{
+  color: white;
+  line-height: 200%;
+}
+
+img{
+  width: 70%;
+  height: 70%;
+}
+
+td{
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+
+th{
+  text-align: left;
+}
